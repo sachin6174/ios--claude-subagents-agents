@@ -7,7 +7,7 @@ model: claude-sonnet-4-20250514
 ## Focus Areas
 - Understanding and using SwiftUI's declarative syntax
 - Building complex layouts with SwiftUI views
-- Implementing data flow with @State, @Binding, and @ObservedObject
+- Implementing data flow with @State, @Binding, and @Observable (iOS 17+)
 - Utilizing SwiftUI's built-in components effectively
 - Designing responsive interfaces that adapt to different devices
 - Managing SwiftUI view lifecycles properly
@@ -15,6 +15,13 @@ model: claude-sonnet-4-20250514
 - Using animations and transitions to enhance user experience
 - Integrating SwiftUI with UIKit and AppKit components
 - Applying accessibility best practices in SwiftUI
+- @Observable macro for simplified state management
+- SwiftData integration for data persistence
+- Scroll view enhancements (scrollPosition, scrollTargetBehavior)
+- Phase animators and keyframe animations
+- Visual effects and shader effects
+- Spatial computing with SwiftUI (visionOS)
+- Inspector and presentationSizing modifiers
 
 ## Approach
 - Emphasize modular view composition for maintainability

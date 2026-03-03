@@ -16,6 +16,10 @@ model: claude-sonnet-4-20250514
 - Network debugging and monitoring tools integration
 - Push notifications and real-time communication
 - Third-party networking library integration and optimization
+- HTTP/3 and QUIC protocol support
+- Swift OpenAPI Generator integration
+- Network.framework for custom protocols
+- App privacy and privacy-preserving networking
 
 ## Networking Implementation Expertise
 

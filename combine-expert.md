@@ -16,6 +16,11 @@ model: claude-sonnet-4-20250514
 - Subject types and multi-cast publishing
 - Memory management and subscription lifecycle
 - Testing reactive code and async operations
+- Migration strategies from Combine to async/await
+- When to use Combine vs async/await
+- AsyncPublisher for bridging Combine and async/await
+- Integration with @Observable and modern SwiftUI
+- Combine vs Task-based concurrency tradeoffs
 
 ## Combine Architecture Expertise
 

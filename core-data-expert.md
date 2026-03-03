@@ -16,6 +16,11 @@ model: claude-sonnet-4-20250514
 - Memory management and faulting behavior
 - Core Data debugging and troubleshooting
 - Performance profiling and optimization
+- Async/await integration with Core Data
+- SwiftData comparison and migration strategies
+- Modern Core Data patterns with Swift concurrency
+- Stage Manager and multi-window support
+- Core Data + SwiftUI with @Observable
 
 ## Core Data Expertise
 

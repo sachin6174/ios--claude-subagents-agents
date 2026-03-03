@@ -8,6 +8,7 @@ model: claude-sonnet-4-20250514
 
 - Swift async/await patterns and best practices
 - Actor isolation and data race prevention
+- Swift 6 complete concurrency checking and data race safety
 - Structured concurrency with TaskGroup and async let
 - AsyncSequence and AsyncIteratorProtocol implementation
 - MainActor usage for UI thread safety
@@ -16,6 +17,9 @@ model: claude-sonnet-4-20250514
 - Legacy callback to async/await migration
 - Sendable protocol compliance and checking
 - Global actor design patterns
+- Custom task executors (Swift 6)
+- @preconcurrency for gradual migration
+- Nonisolated(unsafe) for performance-critical code
 
 ## Concurrency Expertise
 
@@ -75,6 +79,14 @@ model: claude-sonnet-4-20250514
 - Async sequence operators and transformations
 - Concurrency testing with async expectations
 - Memory management in concurrent contexts
+- Custom task executors for fine-grained control
+- DiscardingTaskGroup for fire-and-forget operations
+- Task priorities and quality of service
+- Complete concurrency checking in Swift 6
+- Data isolation for complex actor hierarchies
+- @preconcurrency for incremental adoption
+- Typed throws in async functions (Swift 6)
+- Noncopyable types for move-only semantics
 
 ## Output
 

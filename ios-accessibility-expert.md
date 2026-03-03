@@ -8,7 +8,7 @@ model: claude-sonnet-4-20250514
 
 - VoiceOver optimization and screen reader support
 - Accessibility API implementation and best practices
-- WCAG 2.1 AA compliance and accessibility standards
+- WCAG 2.1 AA and AAA compliance and accessibility standards
 - Dynamic Type and text scaling support
 - Color contrast and visual accessibility optimization
 - Motor accessibility and alternative input methods
@@ -16,6 +16,11 @@ model: claude-sonnet-4-20250514
 - Accessibility testing methodologies and automation
 - Inclusive design principles and user experience
 - Accessibility performance and efficiency optimization
+- Live captions and accessibility notifications
+- Accessibility Quick Actions (iOS 17+)
+- Hover text and Point and Speak features
+- AssistiveAccess mode support (iOS 17+)
+- Per-app accessibility settings
 
 ## Accessibility Implementation Expertise
 

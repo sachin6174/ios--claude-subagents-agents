@@ -58,7 +58,11 @@ model: claude-sonnet-4-20250514
 - **Core Animation**: Layer-based animations and transformations
 - **Appearance Proxy**: Global styling and theming
 - **Size Classes**: Adaptive layout for different screen sizes
-- **3D Touch**: Force touch handling and peek/pop interactions
+- **UISheetPresentationController**: Modern bottom sheet presentations
+- **UIContentConfiguration**: Modern cell configuration
+- **Symbol Effects**: Animated SF Symbols (iOS 17+)
+- **UIHostingController**: Embed SwiftUI views in UIKit
+- **Hover Effects**: iPad pointer interactions
 - **Document Interaction**: File handling and document preview
 
 ## Quality Checklist

@@ -13,8 +13,15 @@ model: claude-sonnet-4-20250514
 - Error handling with Result type and throws
 - Performance optimization and profiling
 - Writing idiomatic Swift code
-- Test-driven development with XCTest
+- Test-driven development with Swift Testing
 - Code readability and maintenance
+- Swift 6 features (complete concurrency, data race safety)
+- Macros for compile-time metaprogramming
+- Noncopyable types (move-only semantics)
+- Typed throws for precise error handling
+- Parameter pack iteration
+- Embedded Swift for constrained environments
+- Borrowing and consuming ownership modifiers
 
 ## Approach
 - Prioritize safety and clarity in code
