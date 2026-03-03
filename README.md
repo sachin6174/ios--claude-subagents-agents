@@ -13,7 +13,7 @@
 
 ## 📖 About
 
-This repository contains **47 specialized AI agents** designed to assist with every aspect of Swift and iOS development. Each agent is an expert in a specific domain, from modern SwiftUI to embedded systems, providing context-aware guidance, best practices, and production-ready code examples.
+This repository contains **50 specialized AI agents** designed to assist with every aspect of Swift and iOS development. Each agent is an expert in a specific domain, from modern SwiftUI to embedded systems, providing context-aware guidance, best practices, and production-ready code examples.
 
 **Last Updated:** March 2026 — Includes Swift 6, iOS 18, visionOS 2, and all latest Apple technologies.
 
@@ -124,6 +124,9 @@ This repository contains **47 specialized AI agents** designed to assist with ev
 | [**memory-leak-detector**](memory-leak-detector.md) | Memory leaks, retain cycles | Memory issues |
 | [**ios-performance-profiler**](ios-performance-profiler.md) | Instruments, performance optimization | Performance tuning |
 | [**ios-ui-testing-expert**](ios-ui-testing-expert.md) | UI testing, XCUITest | Automated UI tests |
+| [**ios-unit-testing-expert**](ios-unit-testing-expert.md) | iOS unit testing strategy and isolation | Unit test design and CI stability |
+| [**xctest-expert**](xctest-expert.md) | XCTest architecture, async tests, performance tests | Legacy and mixed XCTest suites |
+| [**test-doubles-expert**](test-doubles-expert.md) | Mocks, stubs, spies, and fakes | Deterministic isolated unit tests |
 
 ### 🔒 Security & Quality
 
@@ -172,7 +175,7 @@ This repository contains **47 specialized AI agents** designed to assist with ev
 - Comprehensive error handling
 
 ### 📖 **Comprehensive Coverage**
-- 47 specialized agents
+- 50 specialized agents
 - Every aspect of iOS development
 - From UI to backend
 - From prototyping to production
@@ -269,14 +272,14 @@ code to async/await
 
 ## 📊 Agent Statistics
 
-- **Total Agents:** 47
+- **Total Agents:** 50
 - **Architecture Experts:** 5
 - **UI/UX Specialists:** 6
 - **Platform Experts:** 6
 - **Swift Language:** 7
 - **Data & Networking:** 4
 - **Media & Graphics:** 3
-- **Tools & Debugging:** 7
+- **Tools & Debugging:** 10
 - **Coverage:** Complete iOS/macOS/visionOS ecosystem
 
 ---
@@ -352,6 +355,10 @@ Have questions or suggestions?
 ---
 
 ## 🗓️ Version History
+
+### v2.1 (March 2026)
+- ✨ Added 3 testing-focused agents (ios-unit-testing-expert, xctest-expert, test-doubles-expert)
+- 📊 Updated catalog and statistics to 50 total agents
 
 ### v2.0 (March 2026)
 - ✨ Added 14 new agents (visionOS, WidgetKit, App Intents, Swift Testing, etc.)
