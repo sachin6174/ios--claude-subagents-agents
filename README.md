@@ -13,9 +13,9 @@
 
 ## 📖 About
 
-This repository contains **76 specialized AI agents** designed to support the full app lifecycle: discovery, UX, architecture, implementation, testing, release, scale, and growth. The set includes Apple platform experts plus Android, cross-platform, desktop, backend, and reliability roles.
+This repository contains **85 specialized AI agents** designed to support the full app lifecycle: discovery, UX, architecture, implementation, testing, release, scale, growth, and creative experience design. The set includes Apple platform experts plus Android, cross-platform, desktop, backend, reliability, and creativity-focused roles.
 
-**Last Updated:** March 2026 — Includes Swift 6, iOS 18, visionOS 2, Android/Kotlin workflows, and scale/reliability agents.
+**Last Updated:** March 2026 — Includes Swift 6, iOS 18, visionOS 2, Android/Kotlin workflows, scale/reliability agents, and advanced creativity/UI beautification agents.
 
 ---
 
@@ -59,6 +59,20 @@ This repository contains **76 specialized AI agents** designed to support the fu
 | [**color-theory-expert**](color-theory-expert.md) | Color psychology, accessibility, palettes | Color schemes, brand colors |
 | [**ios-animation-expert**](ios-animation-expert.md) | Core Animation, SwiftUI animations, transitions | Smooth animations, interactions |
 | [**ios-accessibility-expert**](ios-accessibility-expert.md) | VoiceOver, WCAG, inclusive design | Accessibility compliance |
+
+### 🎨 Creative & Visual Design
+
+| Agent | Description | Use For |
+|-------|-------------|---------|
+| [**ui-beautification-expert**](ui-beautification-expert.md) | Visual polish and premium interface refinement | Beautifying screens and improving perceived quality |
+| [**color-palette-expert**](color-palette-expert.md) | Advanced palette and theming strategy | Choosing best colors and semantic color systems |
+| [**typography-expert**](typography-expert.md) | App typography hierarchy and readability | Type systems and text clarity optimization |
+| [**creative-direction-expert**](creative-direction-expert.md) | Product visual direction and style definition | Creative direction and mood alignment |
+| [**motion-design-expert**](motion-design-expert.md) | Motion language and microinteraction design | Expressive transitions and interaction feedback |
+| [**iconography-expert**](iconography-expert.md) | Icon and symbol system design | Consistent, legible iconography standards |
+| [**brand-visual-identity-expert**](brand-visual-identity-expert.md) | Brand expression in product interfaces | Strong, consistent app visual identity |
+| [**content-microcopy-expert**](content-microcopy-expert.md) | UX writing and interface microcopy | Clear, persuasive action and error text |
+| [**creative-concept-expert**](creative-concept-expert.md) | Concept ideation and originality exploration | Fresh creative concepts and themes |
 
 ### 🌐 Modern Apple Platforms
 
@@ -226,10 +240,10 @@ This repository contains **76 specialized AI agents** designed to support the fu
 - Comprehensive error handling
 
 ### 📖 **Comprehensive Coverage**
-- 76 specialized agents
+- 85 specialized agents
 - Mobile, desktop, backend, cloud, and product functions
 - From discovery and UX to architecture and coding
-- From QA and releases to reliability and growth
+- From QA and releases to reliability, growth, and creative direction
 
 ---
 
@@ -323,11 +337,10 @@ code to async/await
 
 ## 📊 Agent Statistics
 
-- **Total Agents:** 50
-- **Total Agents:** 76
+- **Total Agents:** 85
 - **Platform Coverage:** iOS, iPadOS, macOS, watchOS, visionOS, Android, and cross-platform stacks
 - **Lifecycle Coverage:** discovery, UX, architecture, development, testing, release, reliability, and growth
-- **Quality Coverage:** testing, bug detection, issue fixing, CI/CD, SRE, and security/privacy
+- **Quality Coverage:** testing, bug detection, issue fixing, CI/CD, SRE, security/privacy, and creative polish
 - **App Scope:** consumer apps, enterprise apps, and scale-ready backend-integrated products
 
 ---
@@ -403,6 +416,11 @@ Have questions or suggestions?
 ---
 
 ## 🗓️ Version History
+
+### v2.3 (March 2026)
+- ✨ Added 9 creativity-focused agents for UI beautification, color systems, typography, motion, iconography, brand identity, UX microcopy, and concept generation
+- 🎨 Added Creative & Visual Design category for quick discovery
+- 📊 Updated catalog and statistics to 85 total agents
 
 ### v2.2 (March 2026)
 - ✨ Added 23 new agents for Android, cross-platform mobile, desktop engineering, backend scale, DevOps/SRE, product, growth, UX research, and privacy/compliance
