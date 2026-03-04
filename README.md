@@ -1,6 +1,6 @@
-# 🚀 Claude Swift & iOS Expert Agents
+# 🚀 Claude App Development Expert Agents
 
-> A comprehensive collection of specialized AI agents for Swift and iOS development, covering everything from architecture patterns to cutting-edge APIs.
+> A comprehensive collection of specialized AI agents for mobile, desktop, backend, DevOps, product, and UX workflows.
 
 <div align="center">
 
@@ -13,9 +13,9 @@
 
 ## 📖 About
 
-This repository contains **50 specialized AI agents** designed to assist with every aspect of Swift and iOS development. Each agent is an expert in a specific domain, from modern SwiftUI to embedded systems, providing context-aware guidance, best practices, and production-ready code examples.
+This repository contains **76 specialized AI agents** designed to support the full app lifecycle: discovery, UX, architecture, implementation, testing, release, scale, and growth. The set includes Apple platform experts plus Android, cross-platform, desktop, backend, and reliability roles.
 
-**Last Updated:** March 2026 — Includes Swift 6, iOS 18, visionOS 2, and all latest Apple technologies.
+**Last Updated:** March 2026 — Includes Swift 6, iOS 18, visionOS 2, Android/Kotlin workflows, and scale/reliability agents.
 
 ---
 
@@ -127,6 +127,9 @@ This repository contains **50 specialized AI agents** designed to assist with ev
 | [**ios-unit-testing-expert**](ios-unit-testing-expert.md) | iOS unit testing strategy and isolation | Unit test design and CI stability |
 | [**xctest-expert**](xctest-expert.md) | XCTest architecture, async tests, performance tests | Legacy and mixed XCTest suites |
 | [**test-doubles-expert**](test-doubles-expert.md) | Mocks, stubs, spies, and fakes | Deterministic isolated unit tests |
+| [**bug-detection-expert**](bug-detection-expert.md) | Logic, crash, and concurrency defect detection | Pre-release risk discovery |
+| [**ui-issue-detector**](ui-issue-detector.md) | UI/UX issue detection across states and devices | Design QA and usability audits |
+| [**issue-fixer-expert**](issue-fixer-expert.md) | Root-cause-driven issue remediation | Safe, minimal production fixes |
 
 ### 🔒 Security & Quality
 
@@ -148,6 +151,54 @@ This repository contains **50 specialized AI agents** designed to assist with ev
 |-------|-------------|---------|
 | [**ios-developer**](ios-developer.md) | General iOS development | All-around iOS assistance |
 | [**ios-expert**](ios-expert.md) | iOS platform expertise | iOS-specific questions |
+
+### 🤖 Android & Cross-Platform Mobile
+
+| Agent | Description | Use For |
+|-------|-------------|---------|
+| [**android-developer**](android-developer.md) | Native Android engineering | Kotlin-first Android product development |
+| [**kotlin-expert**](kotlin-expert.md) | Kotlin language and architecture | Kotlin code quality and API design |
+| [**jetpack-compose-expert**](jetpack-compose-expert.md) | Compose UI architecture and performance | Scalable Android UI systems |
+| [**flutter-expert**](flutter-expert.md) | Flutter cross-platform development | Mobile/Desktop Flutter products |
+| [**react-native-expert**](react-native-expert.md) | React Native architecture and performance | Cross-platform iOS/Android delivery |
+
+### 🖥️ Desktop Engineering
+
+| Agent | Description | Use For |
+|-------|-------------|---------|
+| [**desktop-architecture-expert**](desktop-architecture-expert.md) | Desktop app architecture across OSs | Scalable desktop product foundations |
+| [**electron-expert**](electron-expert.md) | Electron security/performance specialist | Secure Electron desktop apps |
+| [**tauri-expert**](tauri-expert.md) | Tauri + Rust desktop specialist | Lightweight secure desktop apps |
+
+### ☁️ Backend, Cloud & Scale
+
+| Agent | Description | Use For |
+|-------|-------------|---------|
+| [**backend-architecture-expert**](backend-architecture-expert.md) | Service and system architecture | Scalable backend design |
+| [**api-design-expert**](api-design-expert.md) | API contract and versioning design | REST/GraphQL integration quality |
+| [**database-architecture-expert**](database-architecture-expert.md) | Schema/query/migration architecture | Reliable data layer scaling |
+| [**cloud-architecture-expert**](cloud-architecture-expert.md) | Cloud platform design and resiliency | Multi-env cloud foundations |
+| [**scalability-engineer-expert**](scalability-engineer-expert.md) | Throughput/latency bottleneck elimination | Capacity and performance scaling |
+
+### 🚦 DevOps, QA & Reliability
+
+| Agent | Description | Use For |
+|-------|-------------|---------|
+| [**devops-cicd-expert**](devops-cicd-expert.md) | CI/CD architecture and delivery safety | Faster, safer release pipelines |
+| [**sre-observability-expert**](sre-observability-expert.md) | SLOs, telemetry, alerting, incident response | Production reliability operations |
+| [**qa-automation-expert**](qa-automation-expert.md) | End-to-end automated quality strategy | Regression prevention at scale |
+| [**release-manager-expert**](release-manager-expert.md) | Launch coordination and rollout control | Predictable multi-platform releases |
+
+### 📈 Product, UX Strategy & Growth
+
+| Agent | Description | Use For |
+|-------|-------------|---------|
+| [**product-manager-expert**](product-manager-expert.md) | Product strategy and roadmap execution | Outcome-driven product decisions |
+| [**growth-analytics-expert**](growth-analytics-expert.md) | Funnel, retention, and experiment analytics | Data-driven growth optimization |
+| [**design-system-expert**](design-system-expert.md) | Cross-platform design systems | UI consistency and component governance |
+| [**user-research-expert**](user-research-expert.md) | Qualitative/quant research workflows | Evidence-backed UX decisions |
+| [**onboarding-retention-expert**](onboarding-retention-expert.md) | Activation and retention optimization | First-time UX and churn reduction |
+| [**privacy-compliance-expert**](privacy-compliance-expert.md) | Privacy-by-design and compliance | Responsible data handling and readiness |
 
 ---
 
@@ -175,10 +226,10 @@ This repository contains **50 specialized AI agents** designed to assist with ev
 - Comprehensive error handling
 
 ### 📖 **Comprehensive Coverage**
-- 50 specialized agents
-- Every aspect of iOS development
-- From UI to backend
-- From prototyping to production
+- 76 specialized agents
+- Mobile, desktop, backend, cloud, and product functions
+- From discovery and UX to architecture and coding
+- From QA and releases to reliability and growth
 
 ---
 
@@ -273,14 +324,11 @@ code to async/await
 ## 📊 Agent Statistics
 
 - **Total Agents:** 50
-- **Architecture Experts:** 5
-- **UI/UX Specialists:** 6
-- **Platform Experts:** 6
-- **Swift Language:** 7
-- **Data & Networking:** 4
-- **Media & Graphics:** 3
-- **Tools & Debugging:** 10
-- **Coverage:** Complete iOS/macOS/visionOS ecosystem
+- **Total Agents:** 76
+- **Platform Coverage:** iOS, iPadOS, macOS, watchOS, visionOS, Android, and cross-platform stacks
+- **Lifecycle Coverage:** discovery, UX, architecture, development, testing, release, reliability, and growth
+- **Quality Coverage:** testing, bug detection, issue fixing, CI/CD, SRE, and security/privacy
+- **App Scope:** consumer apps, enterprise apps, and scale-ready backend-integrated products
 
 ---
 
@@ -313,8 +361,8 @@ model: claude-sonnet-4-20250514
 ### Guidelines
 1. Keep agents focused on a single domain
 2. Include practical code examples
-3. Reference latest APIs (iOS 17/18, Swift 6)
-4. Follow Apple Human Interface Guidelines
+3. Reference latest platform APIs and framework versions
+4. Follow platform HIG/material guidelines and accessibility standards
 5. Emphasize best practices and patterns
 
 ---
@@ -346,7 +394,7 @@ Have questions or suggestions?
 
 <div align="center">
 
-**Made with ❤️ for the Swift & iOS developer community**
+**Made with ❤️ for the app developer community**
 
 ⭐ Star this repo if you find it helpful!
 
@@ -355,6 +403,11 @@ Have questions or suggestions?
 ---
 
 ## 🗓️ Version History
+
+### v2.2 (March 2026)
+- ✨ Added 23 new agents for Android, cross-platform mobile, desktop engineering, backend scale, DevOps/SRE, product, growth, UX research, and privacy/compliance
+- 🧰 Added dedicated issue lifecycle agents (bug-detection-expert, ui-issue-detector, issue-fixer-expert)
+- 📊 Updated catalog and statistics to 76 total agents
 
 ### v2.1 (March 2026)
 - ✨ Added 3 testing-focused agents (ios-unit-testing-expert, xctest-expert, test-doubles-expert)
@@ -380,9 +433,9 @@ Have questions or suggestions?
 - [ ] Machine Learning with Core ML/CreateML expert
 - [ ] Vapor 5.0 server-side updates
 - [ ] Xcode 16 features integration
-- [ ] CI/CD and DevOps expert for iOS
+- [x] CI/CD and DevOps expert for iOS
 - [ ] SwiftData advanced patterns expert
-- [ ] Privacy-focused development expert
+- [x] Privacy-focused development expert
 
 ---
 
