@@ -13,9 +13,9 @@
 
 ## 📖 About
 
-This repository contains **85 specialized AI agents** designed to support the full app lifecycle: discovery, UX, architecture, implementation, testing, release, scale, growth, and creative experience design. The set includes Apple platform experts plus Android, cross-platform, desktop, backend, reliability, and creativity-focused roles.
+This repository contains **93 specialized AI agents** designed to support the full app lifecycle: market research, feature strategy, UX, architecture, implementation, testing, release, scale, growth, and creative experience design. The set includes Apple platform experts plus Android, cross-platform, desktop, backend, reliability, and creativity-focused roles.
 
-**Last Updated:** March 2026 — Includes Swift 6, iOS 18, visionOS 2, Android/Kotlin workflows, scale/reliability agents, and advanced creativity/UI beautification agents.
+**Last Updated:** March 2026 — Includes Swift 6, iOS 18, visionOS 2, Android/Kotlin workflows, scale/reliability agents, creativity/UI beautification agents, and research/feature strategy agents.
 
 ---
 
@@ -214,6 +214,19 @@ This repository contains **85 specialized AI agents** designed to support the fu
 | [**onboarding-retention-expert**](onboarding-retention-expert.md) | Activation and retention optimization | First-time UX and churn reduction |
 | [**privacy-compliance-expert**](privacy-compliance-expert.md) | Privacy-by-design and compliance | Responsible data handling and readiness |
 
+### 🔬 Research & Feature Strategy
+
+| Agent | Description | Use For |
+|-------|-------------|---------|
+| [**market-research-expert**](market-research-expert.md) | Market sizing, segmentation, and trend analysis | Product direction and market-entry decisions |
+| [**competitor-intelligence-expert**](competitor-intelligence-expert.md) | Competitor benchmarking and differentiation analysis | Strategic positioning and roadmap response |
+| [**feature-discovery-expert**](feature-discovery-expert.md) | Problem-first feature opportunity discovery | Idea generation and hypothesis framing |
+| [**feature-prioritization-expert**](feature-prioritization-expert.md) | Prioritization frameworks and sequencing | Roadmap tradeoff and release planning |
+| [**feature-specification-expert**](feature-specification-expert.md) | Build-ready feature specs and acceptance criteria | PRD quality and handoff clarity |
+| [**feature-validation-expert**](feature-validation-expert.md) | Experiment and prototype-based de-risking | Go/no-go decisions before major build |
+| [**feature-adoption-expert**](feature-adoption-expert.md) | Post-launch feature adoption and usage analysis | Iteration planning and value realization |
+| [**technical-feasibility-expert**](technical-feasibility-expert.md) | Architecture-fit and delivery-risk feasibility analysis | Technical planning before commitment |
+
 ---
 
 ## 🌟 Key Features
@@ -240,9 +253,9 @@ This repository contains **85 specialized AI agents** designed to support the fu
 - Comprehensive error handling
 
 ### 📖 **Comprehensive Coverage**
-- 85 specialized agents
+- 93 specialized agents
 - Mobile, desktop, backend, cloud, and product functions
-- From discovery and UX to architecture and coding
+- From market research and feature strategy to architecture and coding
 - From QA and releases to reliability, growth, and creative direction
 
 ---
@@ -337,9 +350,9 @@ code to async/await
 
 ## 📊 Agent Statistics
 
-- **Total Agents:** 85
+- **Total Agents:** 93
 - **Platform Coverage:** iOS, iPadOS, macOS, watchOS, visionOS, Android, and cross-platform stacks
-- **Lifecycle Coverage:** discovery, UX, architecture, development, testing, release, reliability, and growth
+- **Lifecycle Coverage:** market research, feature strategy, UX, architecture, development, testing, release, reliability, and growth
 - **Quality Coverage:** testing, bug detection, issue fixing, CI/CD, SRE, security/privacy, and creative polish
 - **App Scope:** consumer apps, enterprise apps, and scale-ready backend-integrated products
 
@@ -416,6 +429,11 @@ Have questions or suggestions?
 ---
 
 ## 🗓️ Version History
+
+### v2.4 (March 2026)
+- ✨ Added 8 research and feature strategy agents for market analysis, competitor intelligence, feature discovery, prioritization, specification, validation, adoption analytics, and technical feasibility
+- 🔬 Added Research & Feature Strategy category for end-to-end feature lifecycle support
+- 📊 Updated catalog and statistics to 93 total agents
 
 ### v2.3 (March 2026)
 - ✨ Added 9 creativity-focused agents for UI beautification, color systems, typography, motion, iconography, brand identity, UX microcopy, and concept generation
